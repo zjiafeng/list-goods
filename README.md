@@ -1,4 +1,4 @@
-# 这是一个基于vue框架的模拟电商的demo，使用了element-ui的设计主题。
+# 这是一个基于vue框架的模拟电商平台的demo，使用了element-ui的设计主题。
 
 ## Project setup
 ```
