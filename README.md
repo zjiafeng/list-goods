@@ -1,4 +1,4 @@
-# myshop2
+# 电商demo的商品显示页面
 
 ## Project setup
 ```
